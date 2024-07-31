@@ -2,7 +2,7 @@
 // Headers
 //http://api.todo.com/
 header('Access-Control-Allow-Origin: *');
-('Content-Type: application/json');
+header('Content-Type: application/json');
 
 include_once 'config/Database.php';
 include_once ' /Todo.php';
