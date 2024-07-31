@@ -21,6 +21,7 @@ $numUncompleted = $uncompleted->rowCount();
 
 // task completed query
 $completed = $todo->getCompleted();
+ech"hello"
 // Get row count
 $numCompleted = $completed->rowCount();
 
