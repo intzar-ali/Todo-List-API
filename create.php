@@ -1,4 +1,4 @@
-<?php
+<>
 // Headers
 //RewriteRule ^create/task/([^/]*)$ /create.php?item=$1 [L]
 header('Access-Control-Allow-Origin: *');
