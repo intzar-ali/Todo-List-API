@@ -42,4 +42,4 @@ if ($numCompleted > 0) {
     $output['message'] = 'No Tasks Found';
 }
 // Turn to JSON & output
-ech json_encode($output);
+echo json_encode($output);
