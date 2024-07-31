@@ -1,11 +1,11 @@
 <?php
 // Headers
-//http://api.todo.com/
+//http://api.todohi.com/
 header('Access-Control-Allow-Origin: *');
 header('Content-Type: application/json');
 
 include_once 'config/Database.php';
-include_once 'models/Todo.php';
+include_once ' /Todo.php';
 
 // Instantiate DB & connect
 $database = new Database();
