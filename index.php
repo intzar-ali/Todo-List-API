@@ -1,6 +1,6 @@
 <?php
 // Headers
-//http://api.todohi.com/
+//http://api.todo ok.com/
 header('Access-Control-Allow-Origin: *');
 header('Content-Type: application/json');
 
